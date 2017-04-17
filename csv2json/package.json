@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-console-app1",
+  "version": "0.0.0",
+  "description": "NodejsConsoleApp1",
+  "main": "app.js",
+  "author": {
+    "name": "hurwitz",
+    "email": ""
+  },
+  "dependencies": {
+    "byline": "^5.0.0",
+    "csv-parse": "^1.2.0",
+    "line-by-line": "^0.1.5"
+  }
+}
